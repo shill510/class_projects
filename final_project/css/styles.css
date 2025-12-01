@@ -6,7 +6,7 @@ h2,h3{
 }
 body{
     background-color: #F2F2F2;
-    font-family: "Grenze Gotisch", serif;
+    font-family: "DM Serif Text", serif;
   font-weight: 400;
   font-style: normal;
 }
@@ -38,6 +38,9 @@ iframe{
 
 nav{
     text-align: center;
+    font-family: "Grenze Gotisch", serif;
+  font-weight: 400;
+  font-style: normal;
 }
 
 nav ul{
